@@ -136,7 +136,7 @@ seismic-ml-generalization/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/seismic-ml-generalization.git
+git clone https://github.com/thamiryscb/seismic-ml.git
 ```
 
 ### 2. Acessar a pasta do projeto
