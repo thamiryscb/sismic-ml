@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+segyio
+joblib
+psutil
+jupyter
+ipykernel
+nbstripout

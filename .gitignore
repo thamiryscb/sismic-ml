@@ -1,0 +1,54 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dados originais
+data/raw/*
+!data/raw/.gitkeep
+
+# Dados processados
+data/processed/*
+!data/processed/.gitkeep
+
+# Arquivos sísmicos
+*.sgy
+*.segy
+*.SGY
+*.SEGY
+
+# Matrizes intermediárias
+*.npy
+*.npz
+*.bin
+*.h5
+
+# Modelos treinados
+models/*
+!models/.gitkeep
+
+# Resultados locais (até verificar permissões)
+results/figures/*
+!results/figures/.gitkeep
+
+results/metrics/*
+!results/metrics/.gitkeep
+
+# Configurações locais
+.vscode/
+.env
+
+# Arquivos temporários
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
