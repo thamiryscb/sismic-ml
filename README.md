@@ -98,11 +98,13 @@ Modelo probabilístico que representa a distribuição dos dados por meio de uma
 - Jupyter Notebook
 - Visual Studio Code
 - Git e GitHub
+- IPykernel
+- Nbstripout
 
 ## Estrutura do projeto
 
 ```
-seismic-ml-generalization/
+sismic-ml/
 │
 ├── data/
 │   ├── raw/
@@ -142,7 +144,7 @@ git clone https://github.com/thamiryscb/sismic-ml.git
 ### 2. Acessar a pasta do projeto
 
 ```bash
-cd seismic-ml-generalization
+cd sismic-ml
 ```
 
 ### 3. Criar um ambiente virtual
